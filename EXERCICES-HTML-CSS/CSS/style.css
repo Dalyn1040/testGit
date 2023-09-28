@@ -1,0 +1,41 @@
+*{
+    margin:0 auto;
+    padding:0;
+}
+
+body{
+    width: 90%;
+}
+
+header{
+    background-color: lightslategrey;
+    text-align: center ;
+    display: flex;
+    align-items: center;
+    height: 60px;
+    margin-bottom: 20px;
+    color: white;
+    }
+
+section{
+    background-color: lightseagreen;
+    text-align: center ;
+    display: flex;
+    align-items: center;
+    height: 400px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+footer{
+    background-color: lightslategrey;
+    text-align: center ;
+    display: flex;
+    align-items: center;
+    height: 60px;
+    margin-bottom: 20px;
+    color: white;
+    }
+
+
+
